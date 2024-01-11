@@ -2,7 +2,7 @@
 
 Begin your Dart Programming journey, starting from scratch for a simple and easy learning experience.
 
-##**Topics to be covered:** 
+## Topics to be covered
 #### Getting Started with Dart Programming
 - Run Your First Dart App
   
