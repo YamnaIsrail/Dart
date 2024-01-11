@@ -7,10 +7,10 @@ void main() {
   fixedList[1] = 2;
   fixedList[2] = 3;
 
-  // mylist.add(98); Cannot supported to a fixed-length list
-  // mylist.remove(0);
-  // mylist.removeAt(index);
-  // mylist.clear();
+  // fixedList.add(98); Cannot supported to a fixed-length list
+  // fixedList.remove(0);
+  // fixedList.removeAt(index);
+  // fixedList.clear();
 
   print("Fixed-length list: $fixedList");
 }
