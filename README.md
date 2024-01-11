@@ -1,14 +1,17 @@
 # Dart Programming Basics Course
 
-## Getting Started with Dart Programming
+Begin your Dart Programming journey, starting from scratch for a simple and easy learning experience.
+
+##**Topics to be covered:** 
+#### Getting Started with Dart Programming
 - Run Your First Dart App
   
-## Exploring Data Types and Variables
+#### Exploring Data Types and Variables
 - Data Types and Variables
 - String, Literals, and String Interpolation
 - Define Constants
 
-## Control Flow Statements
+#### Control Flow Statements
 - IF ELSE
 - Conditional Expressions
 - Ternary Operator
@@ -21,18 +24,18 @@
   - CONTINUE Keyword
   - Labelled FOR Loop
 
-## Exploring Functions or Methods
+### Exploring Functions or Methods
 - Declaring Functions
 - Function Expressions: Short Hand Syntax or Using FAT ARROW
 - Optional Positional Parameters
 - Optional Named Parameters
 - Optional Default Parameters
 
-## Exception Handling
+### Exception Handling
 - Demo with Example
 - Custom Exception Class
 
-## Object-Oriented Programming: Getting Started
+### Object-Oriented Programming: Getting Started
 - Defining Class and Creating Objects
 - Instance and Field Variables
 - Constructors
@@ -40,7 +43,7 @@
   - Named
   - Parameterized
 
-## More on Object-Oriented Dart
+### More on Object-Oriented Dart
 - Inheritance
 - Getter and Setter
 - Private Instance Variable
@@ -48,12 +51,12 @@
 - Using Constructors in Inheritance
 - Static Variables and Methods
 
-## Functional Programming in Dart
+### Functional Programming in Dart
 - Lambda Expression
 - Higher-Order Functions
 - Lexical Closures
 
-## Dart Collections
+### Dart Collections
 - Arrays or List
 - Fixed-Length List
 - Growable List
@@ -61,4 +64,4 @@
 - Map and HashMap
 - Callable Classes
 
-## Conclusion
+### Conclusion
